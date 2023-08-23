@@ -1,10 +1,10 @@
-# WEB103 Prework - *👉🏿 Name of App Here*
+# WEB103 Prework - *Creatorverse*
 
-Submitted by: **👉🏿 your name here**
+Submitted by: **Saad Bin Ihsan**
 
-About this web app: **👉🏿 app description here**
+About this web app: **A simple CRUD web application that uses React Router alongside Supabase for the backend**
 
-Time spent: **👉🏿 X** hours
+Time spent: **5** hours
 
 ## Required Features
 
