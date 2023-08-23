@@ -106,7 +106,10 @@ function EditCreator() {
                 creator.url,
                 creator.description,
                 creator.imageURL
-              )
+              ).then((data) => {
+                console.log(data);
+                window.location.href = `/`;
+              })
             }
           >
             Update Creator
